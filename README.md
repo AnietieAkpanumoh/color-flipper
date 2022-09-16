@@ -1,11 +1,12 @@
 # Color-flipper
 
 This is a simple color-flipper application created with the use of Html, Css, and Vanilla Javascript. The idea is that as you click the button, the
-colour of the background changes and you also see the colour the type of colour seen.
+colour of the background changes and the type of colour will be displayed as a text. The 'Hex' is another page that displays random colours when the button is clicked.
 
 ### Live Demo
 
-To be Documented Later.
+- Github: Click [here](https://anietieakpanumoh.github.io/color-flipper/)
+- Vercel: Click [here](https://color-flipper-psi-ten.vercel.app/)
 
 ## Built With
 
