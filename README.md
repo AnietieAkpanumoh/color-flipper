@@ -5,7 +5,8 @@ colour of the background changes and you also see the colour the type of colour 
 
 ### Live Demo
 
-To be Documented Later.
+- Github: Click [here](https://anietieakpanumoh.github.io/color-flipper/)
+- Vercel: Click [here](https://color-flipper-psi-ten.vercel.app/)
 
 ## Built With
 
